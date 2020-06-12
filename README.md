@@ -1,7 +1,7 @@
 # File-size check.
-check file is empty or not
-import os
-- file-path pass the  parameter values
+1. **check file is empty or not**
+2. **import os**
+3. **file-path pass the  parameter values**
 
 ## Sample code check file empty or not
 
